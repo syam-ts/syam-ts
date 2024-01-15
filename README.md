@@ -53,7 +53,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="21" alt="gmail logo"  />
      <a href="https://www.linkedin.com/in/syam-t-s-81ba88283/" target="_blank">     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="21" alt="linkedin logo"  /> </a>
      <a href="https://twitter.com/Syam91909380"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="21" alt="twitter logo"  /></a>
-  <a href="https://www.facebook.com/syam.syampanmana"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="21" alt="facebook logo"  /></a>
+  <a href="https://www.facebook.com/syam.syampanmana" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="21" alt="facebook logo"  /></a>
  
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="42" height="21" alt="visualstudio logo"  />
 </div>
