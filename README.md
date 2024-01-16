@@ -60,7 +60,7 @@
 </div>
 
 <div>
- <a href="https://syam543.github.io/Razer-Usa/"><img src="https://skycdn.liquidsky.com/razer_meaning.svg" width="42" height="21" alt="Razorsa logo"  /></a>
+ <a href="https://syam543.github.io/Razer-Usa/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_6OL-XNBrkj529n92gMn5tzy2oTsfln-A6IGQoljdxXeCg22L3caiPZuyyiLhNeGDgo&usqp=CAU" width="27" height="21" alt="Razorsa logo" /></a>
 </div>
 
 ###
