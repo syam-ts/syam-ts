@@ -59,4 +59,8 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="42" height="21" alt="visualstudio logo"  />
 </div>
 
+<div>
+ <a href="https://syam543.github.io/Razer-Usa/"><img src="https://skycdn.liquidsky.com/razer_meaning.jpg">Recent Template</a>
+</div>
+
 ###
