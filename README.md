@@ -1,4 +1,6 @@
-<h3 align="left">Hi 👋! My name is Syam T S and I'm a fullstack web developer  from Quilon</h3>
+<h3 align="left">**Hi** 👋! <br> My name is **Syam T S** <br> **I'm a selftaught fullstack web develope**r <br> from **Quilon**
+
+</h3>
 
 ###
 
