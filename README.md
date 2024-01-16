@@ -1,10 +1,6 @@
 <h3 id="about" align="left">Hi👋! <br> My name is Syam T S <br> I'm a selftaught fullstack web developer <br> from Quilon
 </h3>
-<style>
-  #about{
-fontweight:bold;
-  }
-</style>
+
 ###
 
 <div align="center">
