@@ -1,4 +1,4 @@
-<h3 align="right">fds👋 <br> My name is Syam T S <br> I'm a selftaught fullstack web developer <br> from Quilon
+<h3 align="right">d👋 <br> My name is Syam T S <br> I'm a selftaught fullstack web developer <br> from Quilon
 </h3>
 
 ###
