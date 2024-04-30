@@ -1,5 +1,5 @@
 <h3 align="right">Hi 👋 <br> My name is Syam T S <br> I'm a selftaught fullstack web developer <br> from Quilon
-</h3>
+</h3\>
 
 ###
 
