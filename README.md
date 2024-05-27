@@ -33,6 +33,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
+  
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="42" height="21" alt="visualstudio logo"  />
 </div>
 
 ###
@@ -50,18 +52,15 @@
      <a href="https://twitter.com/Syam91909380"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="21" alt="twitter logo"  /></a>
   <a href="https://www.facebook.com/syam.syampanmana" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="21" alt="facebook logo"  /></a>
  
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="42" height="21" alt="visualstudio logo"  />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Syam543&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syam543&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div> 
-
 
 
 <div>
- <a href="https://syam543.github.io/Razer-Usa/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_6OL-XNBrkj529n92gMn5tzy2oTsfln-A6IGQoljdxXeCg22L3caiPZuyyiLhNeGDgo&usqp=CAU" width="27" height="21" alt="Razorsa logo" /></a>
+  <a href="https://syam543.github.io/Razer-Usa/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_6OL-XNBrkj529n92gMn5tzy2oTsfln-A6IGQoljdxXeCg22L3caiPZuyyiLhNeGDgo&usqp=CAU" width="27" height="21" alt="Razorsa logo" />
+  </a>
 </div>
+
+
 
 ###
