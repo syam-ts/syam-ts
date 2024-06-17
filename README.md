@@ -1,8 +1,15 @@
-<h3 align="right">Hi 👋 <br> My name is Syam T S <br> I'm a selftaught fullstack web developer <br> from Quilon
-</h3\>
+<h3 align="left">
+  Hi 👋 <br>
+  My name is Syam T S <br>
+  I'm a self-taught full-stack web developer <br>
+  from Quilon<br>
+  Expertise in MERN based web applications
+</h3>
 
-###
+</br>
 
+### 
+<h4 style="font-size: 12px; font-weight: bold;">Languages and Tools:</h4>
 <div align="left">
 <!--    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   -->
@@ -16,11 +23,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="hquery" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> &nbsp;
-<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express.js" width="40" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> &nbsp;
+<div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="40" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express.js" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> &nbsp;
@@ -29,15 +36,11 @@
 </div>
 </div>
 
+<span><br><br></span>
 
-###
+<h4>Connect with me:</h4>
 
-
-
-###
-
-
-<div align="right">
+<div align="left">
 <a href="https://www.instagram.com/xtreamer3/" target="_blank">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="21" alt="instagram logo"  /> </a>
  
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="21" alt="gmail logo"  />
@@ -46,13 +49,15 @@
   <a href="https://www.facebook.com/syam.syampanmana" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="21" alt="facebook logo"  /></a>
  
 </div>
-//
 
-<div>
-  <a href="https://syamts3.github.io/Razer-Usa/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_6OL-XNBrkj529n92gMn5tzy2oTsfln-A6IGQoljdxXeCg22L3caiPZuyyiLhNeGDgo&usqp=CAU" width="27" height="21" alt="Razorsa logo" />
-  </a>
-</div>
 
 ###
-
+</br>
+<div>
+  <h4>Featured Projects:</h4>
+  <a href="https://www.onecart.services/login">* OneCart</a>  </br>
+  <a href="https://syam-ts.github.io/Razer-Usa/">* RazorUsa</a> </br>
+  <a href="https://syam-ts.github.io/spaceX/">* SpaceX</a> </br>
+  <a href="https://syam-ts.github.io/Guess-It/">* GuessIt</a> </br>
+  <a href="https://syam-ts.github.io/jokeClub/">* JokeClub</a>
+</div>
