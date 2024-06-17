@@ -9,7 +9,7 @@
 </br>
 
 ### 
-<h4 style="font-size: 12px; font-weight: bold;">Languages and Tools:</h4>
+<h3 style="font-size: 12px; font-weight: bold;">Languages and Tools:</h3>
 <div align="left">
 <!--    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   -->
