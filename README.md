@@ -38,7 +38,7 @@
 
 <span><br><br></span>
 
-<h2>Connect with me:</h2>
+<h2 style="font-size: 12px; font-weight: bold;">Connect with me:</h2>
 
 <div align="left">
 <a href="https://www.instagram.com/xtreamer3/" target="_blank">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="21" alt="instagram logo"  /> </a>
