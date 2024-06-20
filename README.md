@@ -54,7 +54,7 @@
 ###
 </br>
 <div>
-  <h1>Featured Projects:</h1>
+  <h3>Featured Projects:</h3>
   <a href="https://www.onecart.services/login">* OneCart</a>  </br>
   <a href="https://syam-ts.github.io/Razer-Usa/">* RazorUsa</a> </br>
   <a href="https://syam-ts.github.io/spaceX/">* SpaceX</a> </br>
