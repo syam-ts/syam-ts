@@ -59,6 +59,6 @@
   <a href="https://syam-ts.github.io/Razer-Usa/">* RazorUsa</a> </br>
   <a href="https://syam-ts.github.io/spaceX/">* SpaceX</a> </br>
   <a href="https://syam-ts.github.io/Guess-It/">* GuessIt</a> </br>
-  <a href="https://syam-ts.github.io/jokeClub/">* JokeClub</a>
+  <a href="https://syam-ts.github.io/jokeClub/">* JokeClub</a> </br>
   <a href="https://github.com/syam-ts/TODO">* TODO-Typescript</a>
 </div>
