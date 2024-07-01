@@ -45,7 +45,7 @@
  
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="21" alt="gmail logo"  />
      <a href="https://www.linkedin.com/in/syam-t-s-81ba88283/" target="_blank">     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="21" alt="linkedin logo"  /> </a>
-     <a href="https://img.freepik.com/free-vector/twitter-new-2023-x-logo-white-background-vector_1017-45422.jpg?size=626&ext=jpg"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="21" alt="twitter logo"  /></a>
+<img src="https://img.freepik.com/premium-vector/twitter-new-logo-white-background-vector_692249-39.jpg?size=626&ext=jpg&ga=GA1.1.916298070.1719850026&semt=ais_user" width="42" height="34" alt="twitter logo"/></a>
   <a href="https://www.facebook.com/syam.syampanmana" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="21" alt="facebook logo"  /></a>
  
 </div>
