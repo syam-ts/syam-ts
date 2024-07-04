@@ -60,6 +60,6 @@
   <a href="https://syam-ts.github.io/spaceX/">* SpaceX</a> </br>
   <a href="https://syam-ts.github.io/Guess-It/">* GuessIt</a> </br>
   <a href="https://syam-ts.github.io/jokeClub/">* JokeClub</a> </br>
-  <a href="https://github.com/syam-ts/TODO">* TODO-Typescript</a>
+  <a href="https://github.com/syam-ts/TODO">* TODO-Typescript</a> </br>
   <a href="https://syam-ts.github.io/Portifolio/">* Portfolio</a>
 </div>
