@@ -62,5 +62,5 @@
   <a href="https://syam-ts.github.io/Guess-It/">* GuessIt</a> </br>
   <a href="https://syam-ts.github.io/jokeClub/">* JokeClub</a> </br>
   <a href="https://github.com/syam-ts/TODO">* TODO-Typescript</a> </br>
-  <a href="https://portifolio-tawny-beta.vercel.app/index.html">* Portfolio</a>
+  <a href="https://tic-tac-toe-react-seven-iota.vercel.app/">* Tic-Tac-Toe</a>
 </div>
