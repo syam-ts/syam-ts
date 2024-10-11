@@ -68,5 +68,6 @@
   <a href="https://syam-ts.github.io/spaceX/">* SpaceX</a> </br>
   <a href="https://syam-ts.github.io/Guess-It/">* GuessIt</a> </br>
   <a href="https://olx-clone-murex-three.vercel.app/">* Olx</a> </br>
+  <a href="https://github.com/syam-ts/Authentra">* Autherntra</a> </br>
 
 </div>
