@@ -43,12 +43,22 @@
 
 <h2 style="font-size: 12px; font-weight: bold;">Connect with me:</h2>
 <div align="left">
-<a href="https://www.instagram.com/xtreamer3/" target="_blank">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="21" alt="instagram logo"  /> </a>
- 
+<a href='https://www.instagram.com/xtreamer3/'> 
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="21" alt="instagram logo" />
+</a>
+
+<a >
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="21" alt="gmail logo"  />
-     <a href="https://www.linkedin.com/in/syam-t-s-81ba88283/" target="_blank">     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="21" alt="linkedin logo"  /> </a>
-<img src="https://img.freepik.com/premium-vector/twitter-new-logo-white-background-vector_692249-39.jpg?size=626&ext=jpg&ga=GA1.1.916298070.1719850026&semt=ais_user" width="42" height="34" alt="X logo"/></a>
-  <a href="https://www.facebook.com/syam.syampanmana" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="21" alt="facebook logo"  /></a>
+</a>
+     <a href="https://www.linkedin.com/in/syam-t-s-81ba88283/" target="_blank">  
+       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="21" alt="linkedin logo"  /> 
+  </a>
+<a>
+    <img src="https://img.freepik.com/premium-vector/twitter-new-logo-white-background-vector_692249-39.jpg?size=626&ext=jpg&ga=GA1.1.916298070.1719850026&semt=ais_user" width="42" height="34" alt="X logo"/>
+</a>
+  <a href="https://www.facebook.com/syam.syampanmana" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="21" alt="facebook logo"  />
+</a>
  
 </div>
 
