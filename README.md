@@ -69,7 +69,7 @@
   <h2 style="font-size: 12px; font-weight: bold;">Featured Projects:</h2>
   <a href="https://www.onecart.services/login">* OneCart</a>  </br>
   <a href="https://github.com/syam-ts/JokeClub2.0/">* JokeClub 2.0</a> </br>
-  <a href="https://github.com/syam-ts/Clever-Ai">* Clever-Ai</a> </br>
+  <a href="https://clever-ai-16m6.onrender.com/">* Clever-Ai</a> </br>
   <a href="https://tic-tac-toe-react-seven-iota.vercel.app/">* Tic-Tac-Toe</a> </br>
   <a href="https://netflix-30e6f.web.app/">* Netflix</a> </br> 
   <a href="https://syam-ts.github.io/Razer-Usa/">* RazorUsa</a> </br>
