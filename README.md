@@ -72,10 +72,11 @@
   <a href="https://clever-ai-16m6.onrender.com/">* Clever-Ai</a> </br>
   <a href="https://tic-tac-toe-react-seven-iota.vercel.app/">* Tic-Tac-Toe</a> </br>
   <a href="https://netflix-30e6f.web.app/">* Netflix</a> </br> 
+    <a href="https://github.com/syam-ts/Authentra">* Autherntra</a> </br>
   <a href="https://syam-ts.github.io/Razer-Usa/">* RazorUsa</a> </br>
   <a href="https://syam-ts.github.io/spaceX/">* SpaceX</a> </br>
   <a href="https://syam-ts.github.io/Guess-It/">* GuessIt</a> </br>
   <a href="https://olx-clone-murex-three.vercel.app/">* Olx</a> </br>
-  <a href="https://github.com/syam-ts/Authentra">* Autherntra</a> </br>
+
 
 </div>
