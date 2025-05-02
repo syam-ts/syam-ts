@@ -71,6 +71,7 @@
 <div>
   <h2 style="font-size: 12px; font-weight: bold;">Featured Projects:</h2>
   <a href="https://www.onecart.services/login">* OneCart</a>  </br>
+  <a href="https://dev-link-frontend.vercel.app/">* Devlink</a>  </br>
   <a href="https://github.com/syam-ts/JokeClub2.0/">* JokeClub 2.0</a> </br>
   <a href="https://clever-ai-16m6.onrender.com/">* Clever-Ai</a> </br>
   <a href="https://tic-tac-toe-react-seven-iota.vercel.app/">* Tic-Tac-Toe</a> </br>
