@@ -1,4 +1,4 @@
-<h3 align="left">
+<h3 align="center">
   Hi 👋 <br>
   My name is Syam T S <br>
   I'm a self-taught full-stack web developer <br>
@@ -9,8 +9,8 @@
 </br>
 
 ### 
-<h2 style="font-size: 12px; font-weight: bold;">Languages and Tools:</h2>
-<div align="left">
+<h2 align="center" style="font-size: 12px; font-weight: bold;">Languages and Tools:</h2>
+<div align="center">
 <!--    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   -->
 
@@ -44,8 +44,8 @@
 
 <span><br><br></span>
 
-<h2 style="font-size: 12px; font-weight: bold;">Connect with me:</h2>
-<div align="left">
+<h2 align="center" style="font-size: 12px; font-weight: bold;">Connect with me:</h2>
+<div align="center">
 <a href='https://www.instagram.com/xtreamer3/'> 
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="21" alt="instagram logo" />
 </a>
@@ -68,7 +68,7 @@
 
 ###
 </br>
-<div>
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
   <h2 style="font-size: 12px; font-weight: bold;">Featured Projects:</h2>
   <a href="https://dev-link-frontend.vercel.app/">* Devlink</a>  </br>
   <a href="https://www.onecart.services/login">* OneCart</a>  </br>
@@ -82,6 +82,4 @@
   <a href="https://syam-ts.github.io/Guess-It/">* GuessIt</a> </br>
    <a href="https://netflix-30e6f.web.app/">* Netflix</a> </br> 
   <a href="https://olx-clone-murex-three.vercel.app/">* Olx</a> </br>
-
-
 </div>
