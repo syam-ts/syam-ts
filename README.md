@@ -23,6 +23,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> &nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRTfkei28uwg1prMgu6qbbxkx9y_5IFJN9g&s" alt="firebase" width="30" height="40"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*opBgWH5AfF8dn_QzUGY5oA.png" alt="javascript" width="90" height="90"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> &nbsp;
 <img src="https://skillicons.dev/icons?i=jquery" alt="jquery" width="40" height="40"/> &nbsp;
 <img src="https://avatars.githubusercontent.com/u/9682013?s=280&v=4" alt="winston" width="40" height="40" style="border-radius:50%;" /> &nbsp;
