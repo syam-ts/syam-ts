@@ -62,7 +62,7 @@
 🎯 <a href="https://dev-link-frontend.vercel.app/" target="_blank"><strong>DevLink</strong></a>
 <em>Freelance job marketplace with real-time chat and Stripe integration</em>
 
-🛒 <a href="https://www.onecart.services/login" target="_blank"><strong>OneCart</strong></a>
+🛒 <a href="https://onecart.onrender.com/login" target="_blank"><strong>OneCart</strong></a>
 <em>Smart online grocery shopping platform with multi-role access</em>
 
 📊  <a href="https://traqfoot.vercel.app/" target="_blank"><strong>Trqfoot</strong></a>
