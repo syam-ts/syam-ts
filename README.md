@@ -102,7 +102,7 @@
 
 </td> </tr> </table>
 ---
-📈 <strong>GitHub Stats</strong>
+ <h3>📈 GitHub Stats</h3>
 <div align="center" style="margin-top: 1rem;"> <a href="https://github.com/syam-ts/github-readme-stats" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syam-ts&layout=compact&theme=white&border=true" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);" /> </a> <p style="font-weight: bold; margin-top: 0.5rem;"> 🔍 <strong>Languages I’ve Worked With Most</strong> </p> </div>
 
 > 💡 *This README is a reflection of my journey as a developer. I love building creative, scalable, and production-ready applications.*
