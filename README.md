@@ -60,7 +60,7 @@
 <table align="center" width="100%"> <tr> <td valign="top" width="50%">
 🔥 Main Projects
 🎯 <a href="https://dev-link-frontend.vercel.app/" target="_blank"><strong>DevLink</strong></a>
-<em>Freelance job marketplace with real-time chat and Stripe integration</em>
+<em>Freelance job marketplace with real-time chat and Stripe integration</em><br /><br />
 
 🛒 <a href="https://onecart.onrender.com/login" target="_blank"><strong>OneCart</strong></a>
 <em>Smart online grocery shopping platform with multi-role access</em>
