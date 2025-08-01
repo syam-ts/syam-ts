@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Syam T S</h1>
-<h3 align="center">💻 Self-Taught Full Stack Web Developer | 🚀 MERN Stack Specialist | 📍 Quilon, India</h3>
+<h3 align="center">💻 Self-Taught Full Stack & Next.js Web Developer | 🚀 MERN [Next.js] Stack Specialist | 📍 Quilon, India</h3>
 
 ---
 
