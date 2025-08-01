@@ -5,6 +5,8 @@
 
 ## 🛠️ Tech Stack & Tools
 <p align="center">
+  <img src="https://camo.githubusercontent.com/c19794479239935607c6c2e501a2f67e495e567ef91e0a1524474d645f52f86c/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6578746a732d322e737667" 
+    alt="Next.js" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/imgul/imgul/refs/heads/main/logos/Tailwind-CSS-Logo.webp" alt="Tailwind" width="40" height="25"/>
@@ -65,23 +67,31 @@
 🛒 <a href="https://onecart.onrender.com/login" target="_blank"><strong>OneCart</strong></a>
 <em>Smart online grocery shopping platform with multi-role access</em>
 
+📊  <a href="https://nextevent-next-js.onrender.com" target="_blank"><strong>NextEvent</strong></a>
+<em>A modern event management platform where organizers can create and manage events, and guests can browse, book, and cancel events. The app supports both free and paid events (via Stripe), filtered event browsing, and revenue sharing between guest and admin on cancellations.</em>
+
 📊  <a href="https://traqfoot.vercel.app/" target="_blank"><strong>Trqfoot</strong></a>
 <em>Monitors foot traffic on public infrastructure by ingesting sensor data, visualizing analytics, tracking device status, and running on Dockerized containers deployed to the cloud</em>
 
 📚 <a href="https://readora-puce.vercel.app/login" target="_blank"><strong>Readora</strong></a>
 <em>AI-powered reader recommendation system</em>
 
+🧾 <a href="https://github.com/syam-ts/InvoSync__Invoice-Management-System" target="_blank"><strong>Invosync</strong></a>
+<em>Freelancer's Invoice Management System to track down all the expenses , paid invoices, unpaid invoices , type of transactions maded through and many more in one place...</em>
+
+
+</td> <td valign="top" width="50%">
+
 😂 <a href="https://github.com/syam-ts/JokeClub2.0/" target="_blank"><strong>JokeClub 2.0</strong></a>
 <em>Joke sharing community with likes and comments</em>
 
+  
 🤖 <a href="https://clever-ai-16m6.onrender.com/" target="_blank"><strong>Clever-AI</strong></a>
 <em>ChatGPT-style AI assistant built with OpenAI API</em>
 
 ❌⭕ <a href="https://tic-tac-toe-react-seven-iota.vercel.app/" target="_blank"><strong>Tic-Tac-Toe</strong></a>
 <em>Classic two-player game in React with responsive UI</em>
-
-</td> <td valign="top" width="50%">
-🧪 Experiments & Clones
+ 
 🔐 <a href="https://github.com/syam-ts/Authentra" target="_blank"><strong>Authentra</strong></a>
 <em>JWT-based auth system with user role control</em>
 
